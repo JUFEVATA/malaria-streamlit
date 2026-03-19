@@ -1,4 +1,10 @@
 streamlit
 tensorflow
+tensorflow-datasets
 numpy
 pillow
+matplotlib
+fastapi
+uvicorn
+requests
+python-multipart
